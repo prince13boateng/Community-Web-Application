@@ -1,0 +1,24 @@
+{
+  "name": "community-application",
+  "version": "1.0.0",
+  "description": "Community Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince13boateng/Community-Web-Application.git"
+  },
+  "keywords": [
+    "Community",
+    "Web",
+    "Application"
+  ],
+  "author": "Prince Boateng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince13boateng/Community-Web-Application/issues"
+  },
+  "homepage": "https://github.com/prince13boateng/Community-Web-Application#readme"
+}
